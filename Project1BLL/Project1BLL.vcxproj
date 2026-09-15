@@ -77,7 +77,7 @@
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
-      <AdditionalIncludeDirectories>$(SolutionDir)Project1BLL\glew-2.1.0\include;$(SolutionDir)Project1BLL\glfw-3.4.bin.WIN64\include;$(SolutionDir)Project1BLL\assimp\include;$(SolutionDir)Project1BLL\assimp\build\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)glew-2.1.0\include;$(SolutionDir)glfw-3.4.bin.WIN64\include;$(SolutionDir)assimp\include;$(SolutionDir)assimp\build\include;$(SolutionDir)glm;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -95,7 +95,7 @@
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
-      <AdditionalIncludeDirectories>$(SolutionDir)Project1BLL\glew-2.1.0\include;$(SolutionDir)Project1BLL\glfw-3.4.bin.WIN64\include;$(SolutionDir)Project1BLL\assimp\include;$(SolutionDir)Project1BLL\assimp\build\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)glew-2.1.0\include;$(SolutionDir)glfw-3.4.bin.WIN64\include;$(SolutionDir)assimp\include;$(SolutionDir)assimp\build\include;$(SolutionDir)glm;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -111,7 +111,7 @@
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
-      <AdditionalIncludeDirectories>$(SolutionDir)Project1BLL\glew-2.1.0\include;$(SolutionDir)Project1BLL\glfw-3.4.bin.WIN64\include;$(SolutionDir)Project1BLL\assimp\include;$(SolutionDir)Project1BLL\assimp\build\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)glew-2.1.0\include;$(SolutionDir)glfw-3.4.bin.WIN64\include;$(SolutionDir)assimp\include;$(SolutionDir)assimp\build\include;$(SolutionDir)glm;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -129,7 +129,7 @@
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
-      <AdditionalIncludeDirectories>$(SolutionDir)Project1BLL\glew-2.1.0\include;$(SolutionDir)Project1BLL\glfw-3.4.bin.WIN64\include;$(SolutionDir)Project1BLL\assimp\include;$(SolutionDir)Project1BLL\assimp\build\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)glew-2.1.0\include;$(SolutionDir)glfw-3.4.bin.WIN64\include;$(SolutionDir)assimp\include;$(SolutionDir)assimp\build\include;$(SolutionDir)glm;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
